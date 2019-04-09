@@ -1,0 +1,44 @@
+@import url("css/reset.css");
+@import url("css/style.css");
+
+body {
+    color: #000;
+    font-size: 14px;
+}
+
+main {
+    padding: 20px;
+}
+
+
+}
+
+form fieldset legend {
+    font-size: 2.5em;
+}
+
+label {
+    float: left;
+    width: 195px;
+    margin-right: 5px;
+    text-align: right;
+}
+
+form fieldset div {
+    clear: both;
+    padding: 5px 0;
+}
+
+form fieldset input[type="reset"] {
+    background-color: #F00;
+    color: #000;
+    float: left;
+    width: 95px;
+    margin-left: 100px;
+    margin-right: 5px;
+}
+
+form fieldset input[type="submit"] {
+    background-color: #0F0;
+    color: #000;
+}
