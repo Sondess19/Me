@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="assets/css/style.css" />
 
         <title>Sondess Ben Araar</title>
 
@@ -16,20 +16,20 @@
 
         <header class="header">
             <h1 class="header-title">
-                <a href="index.html">Sondess Ben Araar</a>
+                <a href="index.php">Sondess Ben Araar</a>
             </h1>
 
             <nav class="header-nav">
-                <a href="index.html">accueil</a>
-                <a href="curriculum vitae.html">curriculum vitae</a>
-                <a href="formulaire.html">newsletter</a>
-                <a href="contact.html">contact</a>
+                <a href="index.php">accueil</a>
+                <a href="curriculum%20vitae.php">curriculum vitae</a>
+                <a href="formulaire.php">newsletter</a>
+                <a href="contact.php">contact</a>
             </nav>
         </header>
 
     <title>Formulaire</title>
 
-    <link href="css/formulaire%20style.css" rel="stylesheet" />
+    <link href="assets/css/formulaire%20style.css" rel="stylesheet" />
     <script src="script.js" type="text/javascript"></script>
 
 <body>

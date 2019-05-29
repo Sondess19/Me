@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="assets/css/style.css"/>
     <link href="https://fonts.googleapis.com/css?family=Chivo:300,400,700" rel="stylesheet">
 
     </head>
@@ -20,16 +20,16 @@
 
     <header class="header">
         <h1 class="header-title">
-            <a href="index.html">Sondess Ben Araar</a>
+            <a href="index.php">Sondess Ben Araar</a>
         </h1>
 
 
 
         <nav class="header-nav">
-            <a href="index.html">accueil</a>
-            <a href="curriculum vitae.html">curriculum vitae</a>
-            <a href="formulaire.html">newsletter</a>
-            <a href="contact.html">contact</a>
+            <a href="index.php">accueil</a>
+            <a href="curriculum%20vitae.php">curriculum vitae</a>
+            <a href="formulaire.php">newsletter</a>
+            <a href="contact.php">contact</a>
         </nav>
     </header>
 

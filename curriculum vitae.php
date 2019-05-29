@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
 
     <title>Sondess Ben Araar</title>
 </head>
@@ -14,21 +14,21 @@
     <header class="header">
 
         <h1 class="header-title">
-            <a href="index.html"> Sondess Ben Araar</a>
+            <a href="index.php"> Sondess Ben Araar</a>
         </h1>
 
         <nav class="header-nav">
-            <a href="index.html">accueil</a>
-            <a href="curriculum vitae.html">curriculum vitae</a>
-            <a href="formulaire.html">newsletter</a>
-            <a href="contact.html">contact</a>
+            <a href="index.php">accueil</a>
+            <a href="curriculum vitae.php">curriculum vitae</a>
+            <a href="formulaire.php">newsletter</a>
+            <a href="contact.php">contact</a>
         </nav>
 
     </header>
 
 <nav>
 
-    <h2 class="project-title">Acheteur en reconversion...bb</h2>
+    <h2 class="project-title">Acheteur en reconversion...</h2>
     <div class="presentation">
         <p> Un Bac Scientifique, une Licence d'Économie, un Master de Management et quelques années d'expériences en tant qu'Acheteur hors production plus tard.... me voici en formation Référent Digital au sein de la NFactory School du Campus Saint Marc de Rouen.
         </p>
