@@ -135,7 +135,7 @@ p{
 
 .project-title{
     margin-top: 10px;
-    margin-bottom: 1àpx;
+    margin-bottom: 40px;
     grid-column: 2 / 4;
     font-size: 21px;
     font-family: 'Chivo', sans-serif;
@@ -145,7 +145,7 @@ p{
 
 .job-title {
     margin-top: 10px;
-    margin-bottom: 1àpx;
+    margin-bottom: 40px;
     grid-column: 2 / 4;
     font-size: 21px;
     font-family: 'Chivo', sans-serif;
@@ -229,3 +229,4 @@ body{
         margin-left: 10px;
     }
 
+        }
